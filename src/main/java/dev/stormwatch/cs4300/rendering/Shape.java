@@ -1,5 +1,6 @@
 package dev.stormwatch.cs4300.rendering;
 
+import dev.stormwatch.cs4300.rendering.Shader;
 import dev.stormwatch.cs4300.resource.FileUtil;
 import dev.stormwatch.cs4300.resource.ResourceManager;
 import dev.stormwatch.cs4300.util.Result;
@@ -13,7 +14,6 @@ import static org.lwjgl.opengl.GL30.glBindVertexArray;
 import static org.lwjgl.opengl.GL30.glGenVertexArrays;
 
 public class Shape {
-
     public static class Triangle {
 
         private static final String SHADER_NAME = "default";

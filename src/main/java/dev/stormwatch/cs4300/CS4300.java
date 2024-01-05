@@ -4,7 +4,6 @@ import dev.stormwatch.cs4300.rendering.Shader;
 import dev.stormwatch.cs4300.rendering.Shape;
 import dev.stormwatch.cs4300.resource.Config;
 import dev.stormwatch.cs4300.resource.ResourceManager;
-import org.lwjgl.Version;
 import org.lwjgl.glfw.GLFWErrorCallback;
 import org.lwjgl.glfw.GLFWVidMode;
 import org.lwjgl.opengl.GL;

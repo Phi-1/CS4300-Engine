@@ -5,27 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e880c13-9001-4001-804c-376985a318aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/CS4300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/rendering/Shader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/rendering/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/resource/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/resource/FileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/resource/ResourceManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/util/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/testsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/default.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shaders/default.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/component/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/component/ComponentSignature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/entity/EntityTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/CS4300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/CS4300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/rendering/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/stormwatch/cs4300/rendering/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,6 +47,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
